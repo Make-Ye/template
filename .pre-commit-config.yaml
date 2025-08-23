@@ -45,7 +45,7 @@ repos:
     hooks:
       - id: cargo-fmt
         name: cargo fmt
-        entry: bash -c 'cargo fmt -- --check'
+        entry: bash -c 'cargo fmt'
         language: rust
         files: \.rs$
 
