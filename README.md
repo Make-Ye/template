@@ -2,7 +2,7 @@
 
 ## 环境设置
 
-### 安装 Rust
+### 安装 Rust（linux和max的方法）
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
